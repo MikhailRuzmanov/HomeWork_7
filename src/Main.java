@@ -16,6 +16,7 @@ public class Main {
 
 
     public static void task1() {
+        System.out.println("Домашнее задание №7");
         System.out.println("");
         System.out.println("============================");
         System.out.println("======= Задача 1 ===========");
